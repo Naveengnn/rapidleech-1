@@ -1,10 +1,4 @@
 {
-  "name": "rapidleech",
-  "description": "All in one bot for rapid leeching",
-  "repository": "https://github.com/Naveengnn/rapidleech-1/",
-  "keywords": ["node", "express", "bot", "leech", "automation"],
-  "builpacks": [
-    { "url": "heroku/nodejs" },
-    { "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git" }
-  ]
+  "name": "Rapidleech",
+  "repository": "https://github.com/Th3-822/rapidleech"
 }
